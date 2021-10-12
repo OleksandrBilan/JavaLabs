@@ -1,0 +1,10 @@
+Kindrat,Producer,2002,333
+Bilan,Developer,1975,100
+Kostiv,QA,2015,666
+Zelinskyi,PM,1989,30
+Kostiv,Producer,2000,777
+Prokopiv,Developer,1989,1000
+Fialka,Designer,2001,200
+Kasko,Producer,2005,0
+Voloshyn,Producer,2006,1500
+Alberda,PM,2002,2000
